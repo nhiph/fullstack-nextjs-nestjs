@@ -1,0 +1,1 @@
+fullstack app with nextjs and nestjs
